@@ -1,0 +1,10 @@
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\bin\Debug\KillerSudoku.exe.config
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\bin\Debug\KillerSudoku.exe
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\bin\Debug\KillerSudoku.pdb
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.csprojAssemblyReference.cache
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.Properties.Resources.resources
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.csproj.GenerateResource.cache
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.exe
+C:\Users\windo\source\repos\KillerSudoku\KillerSudoku\obj\Debug\KillerSudoku.pdb
